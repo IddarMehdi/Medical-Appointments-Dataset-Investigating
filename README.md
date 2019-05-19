@@ -18,6 +18,6 @@ __Handcap__ : True(1) or False(0) <br>
 __SMS_received__ : 1 or more messages sent to the patient <br> 
 __No-show__ : Yes or No it says ‘No’ if the patient showed up to their appointment, and ‘Yes’ if they did not show up <br>
 
-__Question 1__ : Is there any relation between receipt of social welfare and showing to appointment ?
-__Question 2__ : Is there any relation between gender and no show ?
-__Question 3__ : Is there any relation between the waiting period and no_show ?
+__Question 1__ : Is there any relation between receipt of social welfare and showing to appointment ? <br>
+__Question 2__ : Is there any relation between gender and no show ? <br>
+__Question 3__ : Is there any relation between the waiting period and no_show ? <br>
