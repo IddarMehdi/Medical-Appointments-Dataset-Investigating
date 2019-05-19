@@ -3,7 +3,7 @@ in Brazil persons make a docotor appointement but dont show-up. This dataset and
 
 The variables of this data set are : 
 
-PatientId : Identification of a patient 
+PatientId : Identification of a patient <br>
 AppointmentID : Identification of each appointment 
 Gender : Male or Female 
 ScheduledDay : The day someone called or registered the appointment, this is before appointment of course 
